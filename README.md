@@ -1,6 +1,6 @@
 <h1 align="center">Hai 👋, aku bima sena w.p</h1>
 <h3 align="center">hai aku programer dari indonesia</h3>
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bimasena321?style=social">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimasena321&label=Profile%20views&color=0e75b6&style=flat" alt="bimasena321" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimasena321" alt="bimasena321" /></a> </p>
